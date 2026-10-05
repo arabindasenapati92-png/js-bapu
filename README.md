@@ -1,2 +1,2 @@
 # js-bapu
-to start
+to start my github journy
